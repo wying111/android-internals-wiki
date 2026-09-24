@@ -79,3 +79,7 @@ node_modules/
 /metadata/queue.json.backup
 /metadata/queue.backup.*
 src_filtered/
+
+# VitePress
+.vitepress/cache/
+.vitepress/dist/

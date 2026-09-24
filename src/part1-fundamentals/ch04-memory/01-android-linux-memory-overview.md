@@ -678,7 +678,7 @@ ZRAM 是匿名页回收策略的一部分。风险来自持续换入换出、回
 - [Android 17：所有应用的行为变更](https://developer.android.com/about/versions/17/behavior-changes-all)
 - [Android Memory Limiter（当前官方说明，配置路径以目标源码标签和设备镜像为准）](https://source.android.com/docs/core/perf/memory-limiter)
 - [Android PMGD（Process Memory Guardian Daemon）](https://source.android.com/docs/core/perf/pmgd)
-- [解读 Android 17 全新内存限制，有没有“豁免”后门？](../../../../技术文章/source/juejin-android/2026-09-11-76535333-解读%20Android%2017%20全新内存限制，有没有.md)
+- 解读 Android 17 全新内存限制，有没有“豁免”后门？（掘金专栏文章，2026-09-11）
 - [Android 应用内存管理](https://developer.android.com/topic/performance/memory)
 - [Android 图形内存管理](https://developer.android.com/topic/performance/graphics/manage-memory)
 - [支持 16 KiB 页大小](https://developer.android.com/guide/practices/page-sizes)

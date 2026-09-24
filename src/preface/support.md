@@ -20,8 +20,8 @@ tags: [introduction, support, donate]
 
 <table class="donate-row">
 <tr>
-<td align="center"><img src="images/alipay.png" alt="支付宝赞赏码：给豆豆买猫粮" width="200" height="200"><br>支付宝</td>
-<td align="center"><img src="images/wechat-pay.png" alt="微信支付码" width="200" height="200"><br>微信</td>
+<td align="center"><img src="/preface/images/alipay.png" alt="支付宝赞赏码：给豆豆买猫粮" width="200" height="200"><br>支付宝</td>
+<td align="center"><img src="/preface/images/wechat-pay.png" alt="微信支付码" width="200" height="200"><br>微信</td>
 </tr>
 </table>
 
